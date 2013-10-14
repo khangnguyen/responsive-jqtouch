@@ -1,6 +1,6 @@
 jQTouch
 =======
-![](//Screen%20Shot%202013-10-11%20at%207.51.17%20AM.png)
+
 Create powerful mobile apps with just HTML, CSS, and Zepto.js (or jQuery).
 --------------------------------------------------------------------------
 
